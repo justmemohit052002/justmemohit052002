@@ -1,4 +1,4 @@
-````markdown
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=250&section=header&text=Mohit%20Singh%20Chouhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <h1 align="center">Hi 👋, I'm Mohit Singh Chouhan</h1>
@@ -31,7 +31,6 @@
 
 ## 🧠 Current Focus
 
-```text
 Backend Development      ████████████ 95%
 Spring Boot              ████████████ 95%
 React.js                 ██████████░░ 85%
@@ -39,7 +38,6 @@ REST APIs                ██████████░░ 90%
 Database Design          ██████████░░ 85%
 Microservices            ███████░░░░░ 60%
 Docker & AWS             ██████░░░░░░ 50%
-````
 
 ## 🛠️ Tech Stack
 
