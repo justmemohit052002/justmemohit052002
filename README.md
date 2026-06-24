@@ -21,7 +21,7 @@ I'm a Java Full Stack Developer who enjoys building **secure, scalable backend s
 
 - 🏦 Built a full-stack **Personal Loan Management System** — JWT auth, role-based access for 3 user types, a custom credit-scoring engine, async email notifications, and Razorpay payment integration
 - 🌊 Built an **AI-powered Flood Risk Assessment System** using Google Gemini, FastAPI, and Next.js
-- 🧩 Solved **250+ DSA problems**, with a strong foundation in OOP, Collections, and Java 8 Streams
+- 🧩 Solved **70+ DSA problems**, with a strong foundation in OOP, Collections, and Java 8 Streams
 - 📚 Currently leveling up in **Microservices, Docker, AWS & System Design**
 - 🤝 Open to collaborating on Java backend, full-stack, and open-source projects
 
