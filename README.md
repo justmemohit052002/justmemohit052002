@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+Spring+Security;React.js+%7C+REST+APIs+%7C+PostgreSQL+%2F+MySQL;Building+Secure%2C+Scalable+Backend+Systems;250%2B+DSA+Problems+Solved+on+LeetCode" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+Spring+Security;React.js+%7C+REST+APIs+%7C+PostgreSQL+%2F+MySQL;Building+Secure%2C+Scalable+Backend+Systems;85%2B+DSA+Problems+Solved+on+LeetCode" />
 
 <br>
 
